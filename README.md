@@ -167,20 +167,19 @@ Columns:
 ## Dashboard Preview
 
 ### 1. Executive Dashboard
-![Executive Dashboard](Dashboard_Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/01_Executive_Dashboard.png)
 
 ### 2. Club Financials
-![Club Financials](Dashboard_Screenshots/02_Club_Financials.png)
+![Club Financials](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/02_Club_Financials.png)
 
 ### 3. League Economics
-![League Economics](Dashboard_Screenshots/03_League_Economics.png)
+![League Economics](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/03_League_Economics.png)
 
 ### 4. Player Market Value
-![Player Market Value](Dashboard_Screenshots/04_Player_Market_Value.png)
+![Player Market Value](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/04_Player_Market_Value.png)
 
 ### 5. Transfers
-![Transfers](Dashboard_Screenshots/05_Transfers.png)
-
+![Transfers](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/05_Transfers.png)
 ---
 
 ## Key Insights
