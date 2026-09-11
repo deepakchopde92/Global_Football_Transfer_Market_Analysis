@@ -170,16 +170,16 @@ Columns:
 ![Executive Dashboard](Global%20Football%20Transfer%20Market%202010-2026/01_Executive_Dashboard.png)
 
 ### 2. Club Financials
-![Club Financials](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/02_Club_Financials.png)
+![Club Financials](Global%20Football%20Transfer%20Market%202010-2026/02_Club_Financials.png)
 
 ### 3. League Economics
-![League Economics](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/03_League_Economics.png)
+![League Economics](Global%20Football%20Transfer%20Market%202010-2026/03_League_Economics.png)
 
 ### 4. Player Market Value
-![Player Market Value](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/04_Player_Market_Value.png)
+![Player Market Value](Global%20Football%20Transfer%20Market%202010-2026/04_Player_Market_Value.png)
 
 ### 5. Transfers
-![Transfers](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/05_Transfers.png)
+![Player Market Value](Global%20Football%20Transfer%20Market%202010-2026/05_Transfers.png)
 ---
 
 ## Key Insights
