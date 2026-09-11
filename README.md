@@ -179,7 +179,7 @@ Columns:
 ![Player Market Value](Global%20Football%20Transfer%20Market%202010-2026/04_Player_Market_Value.png)
 
 ### 5. Transfers
-![Player Market Value](Global%20Football%20Transfer%20Market%202010-2026/05_Transfers.png)
+![ Transfers](Global%20Football%20Transfer%20Market%202010-2026/05_Transfers.png)
 ---
 
 ## Key Insights
