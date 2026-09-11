@@ -167,7 +167,7 @@ Columns:
 ## Dashboard Preview
 
 ### 1. Executive Dashboard
-![Executive Dashboard](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](Global%20Football%20Transfer%20Market%202010-2026/01_Executive_Dashboard.png)
 
 ### 2. Club Financials
 ![Club Financials](Global%20Football%20Transfer%20Market%202010-2026/Dashboard_Screenshots/02_Club_Financials.png)
